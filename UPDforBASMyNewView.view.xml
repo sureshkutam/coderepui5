@@ -1,7 +1,7 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="project1.controller.MyNewView" displayBlock="true">
     <Shell id="shell">
         <App id="app">
-            <pages><Page id="page" title="My new Inn Summary">
+            <pages><Page id="page" title="My new Inn Summary 8-Mar">
                     <content/>
                 </Page>
             </pages>
